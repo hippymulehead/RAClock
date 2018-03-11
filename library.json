@@ -1,0 +1,20 @@
+{
+    "name": "RAClock",
+    "frameworks": "Arduino",
+    "keywords": "clock",
+    "description": "A clock with a callback",
+    "version": "1.0.0",
+    "url": "https://github.com/hippymulehead/RAGPIO",
+    "authors":
+    [
+        {
+            "name": "Michael Romans",
+            "maintainer": true
+        }
+    ],
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/hippymulehead/RAGPIO.git"
+    }
+}
