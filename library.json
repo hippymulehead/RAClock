@@ -4,7 +4,7 @@
     "keywords": "clock",
     "description": "A clock with a callback",
     "version": "1.0.0",
-    "url": "https://github.com/hippymulehead/RAGPIO",
+    "url": "https://github.com/hippymulehead/RAClock",
     "authors":
     [
         {
@@ -15,6 +15,6 @@
     "repository":
     {
         "type": "git",
-        "url": "https://github.com/hippymulehead/RAGPIO.git"
+        "url": "https://github.com/hippymulehead/RAClock.git"
     }
 }
