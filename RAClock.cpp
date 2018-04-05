@@ -40,7 +40,7 @@ void RAClock::run() {
 	}
 }
 
-int RAClock::counterValue() {
+unsigned long RAClock::counterValue() {
     return m_counter;
 }
 

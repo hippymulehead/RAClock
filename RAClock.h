@@ -25,7 +25,7 @@ class RAClock {
         void stop();
         void reset();
         void run();
-        int counterValue();
+        unsigned long counterValue();
         int getRunning();
         void setDuration(unsigned long duration);
     private:
